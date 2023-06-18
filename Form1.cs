@@ -181,7 +181,7 @@ namespace WindowsFormsApplication2
 
         private void button17_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ساخته شده توسط شاهین بابایی, عرفان شالیکار و حسین رضوانی");
+            MessageBox.Show("ساخته شده توسط عرفان شالی کار، شاهین بابایی ، حسین رضوانی");
         }
 
         private void button18_Click(object sender, EventArgs e)
@@ -189,10 +189,10 @@ namespace WindowsFormsApplication2
             textBox1.Text = "";
             x = 0;
             y = 0;
-            jam = "k";
-            tafrigh = "k";
-            zarb = "k";
-            taqsim = "k";
+            jam = "n";
+            tafrigh = "n";
+            zarb = "n";
+            taqsim = "n";
             button11.Enabled = true;
             button12.Enabled = true;
             button13.Enabled = true;
