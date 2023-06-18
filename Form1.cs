@@ -182,6 +182,7 @@ namespace WindowsFormsApplication2
         private void button17_Click(object sender, EventArgs e)
         {
             MessageBox.Show("ساخته شده توسط شاهین بابایی, عرفان شالیکار و حسین رضوانی");
+            MessageBox.Show("عرفان شالیکار");
         }
 
         private void button18_Click(object sender, EventArgs e)
