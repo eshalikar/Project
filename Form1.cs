@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -181,7 +181,7 @@ namespace WindowsFormsApplication2
 
         private void button17_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ساخته شده توسط عرفان شالی کار، شاهین بابایی ، حسین رضوانی");
+            MessageBox.Show("ساخته شده توسط عرفان شالی کار ، حسین رضوانی ، شاهین بابایی");
         }
 
         private void button18_Click(object sender, EventArgs e)
